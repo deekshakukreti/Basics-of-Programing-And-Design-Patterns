@@ -4,6 +4,7 @@ Objects binds data associated with the entities for which the program is designe
 properties. Objects reveal behaviours through methods. The properties and methods of the object used in OOP are defined through classes.
 
 ## Defining Class, Properties and Methods
+## C# code
 ```csharp
 
 class User
@@ -43,7 +44,7 @@ class User
 }
 
 ```
-
+## Python code
 ```python
 
 class User:
