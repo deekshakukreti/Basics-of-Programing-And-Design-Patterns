@@ -18,15 +18,19 @@ Objects are structures for incorporating data and procedures/method for working 
 
 ## Abstraction
 When working on objects, it is very important to know the subset of their properties. And when these properties are abstracted or filtered out, it becomes easy to process the information and make the task easy.
+
 For example, if we interact with same object then we might be insterested to know different subset of properties of the object. When you go out to purchase a laptop for professional work, you need to know the Processor and RAM of the laptop. Because the laptop also has Graphics card, you don't find the need to know about it. However, if the gamer is interested to know about the graphics card in the laptop as this information is critical to him and will not filter it out.
 
 ## Encapsulation
 Encapsulation is the process in which no direct access is given to the data instead it is kept hidden. In order to have access to the data, you need to interact with the object beholding that data. 
+
 Encapsulation is very common in daily life. Say for example, the human resource department is responsible to encapsulate(hide) the records of each employee. They are the one who would carry on request to update the records. They determine how the data can be manipulated or shared on requests.
+
 Encapsulation helps to keep the data secure and reliable. You are aware how the data will be manipulated or accessed. This helps in making programs easy to maintain and simplifies debugging.
 
 ## Polymorphism
-Polymorphism means same name different forms. It is the ability of two different objects that respond to the same request in their own unique way. One good example is where we know that a dog barks and a bird chirps. We train bothe of them in a manner that when we command them to speak, then the dog will respond with bark and the bird will respond with chirp. Another good example, is where you send a message to printer object to print message on text page and also send the same message to the screen object to display the same message on screen.
+Polymorphism means same name different forms. It is the ability of two different objects that respond to the same request in their own unique way. One good example is of a  dog which barks and a bird that chirps. We train both of them in a manner that when we command them to speak, then the dog object will respond with bark and the bird object will respond with chirp. Another good example, is where you send a message to printer object to print message on text page and also send the same message to the screen object to display the same message on screen.
+
 In OOP, this type of polymorphism can be implemented by overloading. Different methods of an object can be implemented that have the same name. The object can then tell which method to implement depending on the type of arguments passed on the message.
 
 ## Inheritance
