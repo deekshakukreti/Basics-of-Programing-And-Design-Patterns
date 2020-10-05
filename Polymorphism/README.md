@@ -10,6 +10,8 @@ In C# their are two types of polymorphism. They are :
 1) Static polymorphism 
 2) Dynamic polymorphism
 
+## Static Polymorphism
+
 Static polymorphism is a polymorphism where the role of the menthod is determined at the compilation time. Examples of static polymorphism is method overloading and operator overloading.
 
 Let's first consider example of method overloading.
@@ -34,7 +36,7 @@ It is called method overloading because the name of the method is the same, howe
 The next example is of operator overloading.
 
 ```CSharp
-public class MyCalc
+public class MyCalculator
 {
     public int a;
     public int b;
@@ -45,11 +47,18 @@ public class MyCalc
         this.b = b;
     }
 
-    public static MyCalc operator +(MyCalc a, MyCalc b)
+    public static MyCalculator operator +(MyCalculator a, MyCalculator b)
     {
-        return new MyCalc(a.a * 3 ,b.b * 3);
+        return new MyCalculator(a.a * 3 ,b.b * 3);
     }
 }
 ```
 
-In the above example (+) operator is overloaded with another sort of calculation. 
+In the above example (+) operator is overloaded with another sort of calculation. If we add two MyCalculator objects, the result will be sum of objects. This will happen at the compile time.
+
+## Dynamic Polymorphism
+
+This is related to abstract class. It is achieved by different methods in different classes can use or implement abstract class, the polymorphic nature is achieved.
+
+
+# Polymophism with Python
