@@ -1,0 +1,10 @@
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\bin\Debug\IssueStackOverflow.exe.config
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\bin\Debug\IssueStackOverflow.exe
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\bin\Debug\IssueStackOverflow.pdb
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.csprojAssemblyReference.cache
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.Form1.resources
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.Properties.Resources.resources
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.csproj.GenerateResource.cache
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.csproj.CoreCompileInputs.cache
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.exe
+C:\MyPortfolioWork\Stack-OverFlow-Issues\VSIssues\IssueStackOverflow\IssueStackOverflow\obj\Debug\IssueStackOverflow.pdb
