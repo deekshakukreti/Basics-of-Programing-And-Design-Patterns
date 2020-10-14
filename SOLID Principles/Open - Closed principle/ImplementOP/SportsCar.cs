@@ -30,7 +30,7 @@ namespace IssueStackOverflow
             Speed = (speedExceeded) ? Speed : Speed + SpeedIncr;
             if (speedExceeded && advise && (SpeedLimit != null))
             {
-                SpeedLimit(this, e);
+                SpeedLimit(this, EventArgs.Empty);
             }
             return speedExceeded;
         }
