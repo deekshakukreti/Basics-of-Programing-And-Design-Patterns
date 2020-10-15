@@ -23,7 +23,15 @@ When the TimedDoor wants to register a timeout request with the Timer, it create
 
 ### Seperation through Multiple - Inheritance
 
+In this model, TimedDoor inherits from both Door and TimerClient. Although clients of both base classes can make use of TimedDoor, neither actually depend upon the TimedDoor class. Thus, they use the same object through separate interfaces.
 
+![isp](https://github.com/deekshakukreti/Images/blob/main/ISP1.png)
+
+This solution is my normal preference.
+
+# Conclusion
+
+Fat interfaces lead to inadvertent couplings beween clients that ought otherwise to be isolated. By making use of the ADAPTER pattern, either through delegation (object form) or multiple inheritance (class form), fat interfaces can be segregated into abstract base classes that break the unwanted coupling between clients.
 
 
 
