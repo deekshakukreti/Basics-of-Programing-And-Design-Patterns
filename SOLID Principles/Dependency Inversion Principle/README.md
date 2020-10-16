@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 # Dependency Inversion Principle
 
 The principle states that :
@@ -18,5 +18,3 @@ In the above figure, the componenet A is dependent on componenet B which is depe
 
 
 
-=======
->>>>>>> b15e880123c9f1196f686f279e81273831da2292
