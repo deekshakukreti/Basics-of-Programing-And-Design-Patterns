@@ -16,7 +16,7 @@ abstract classes. For example, in the below figure both client and server classe
 class want to use different server class, then the client class will be changed to name the new server class.
 
 <p align="center">
-  <img width="550" height="250" src="https://github.com/deekshakukreti/Images/blob/main/cp.png">
+  <img width="460" height="300" src="https://github.com/deekshakukreti/Images/blob/main/cp.png">
 </p>
 
 However, in below figure the ServerAbstract class is an abstract class with virtual member functions. The client
