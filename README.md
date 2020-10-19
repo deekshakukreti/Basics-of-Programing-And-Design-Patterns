@@ -1,4 +1,6 @@
-                ![oops1](https://github.com/deekshakukreti/Images/blob/main/OppsImage.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/deekshakukreti/Images/blob/main/OppsImage.png">
+</p>
 
 # Introduction-to-OOP
 In this section you will be able to understand basic concepts of OOP and how they are implemented in day today life.
