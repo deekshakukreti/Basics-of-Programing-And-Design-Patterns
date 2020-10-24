@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/deekshakukreti/Images/blob/main/OppsImage.png">
+</p>
+
 # Introduction-to-OOP
 In this section you will be able to understand basic concepts of OOP and how they are implemented in day today life.
 
@@ -35,3 +39,24 @@ In OOP, this type of polymorphism can be implemented by overloading. Different m
 
 ## Inheritance
 Inheritance is used to classify the objects according to their characterstics and functions. Objects become easier to work with and more instinctive. The programming becomes easier as it helps to bind the general characterstics into the parent class and then inherit these characterstics in child object. For example, the employee in the company is the base class which have all the characterstics related to it. However, the manager is the child class which is derived from employee class and also have unque characterstics of the manager role in the company. 
+
+
+# SOLID Principles
+
+While programming, we face bad design issues. Those issues can be :
+
+1. Rigidity : It is hard to change because every change affects too many other parts of the system.
+2. Fragility : When you make a change, unexpected parts of the system breaks.
+3. Immobility : It is hard to reuse in another application because it cannot be disentangled from the   current application.
+
+These three traits can be used to understand if the design is a 'Good Design' or a 'Bad Design'.
+
+SOLID Principles not only affect the class design, but other architectures as well. The five principles initial and it's correspondence is:
+
+1. Single Responsibility principle
+2. Open / Closed principle
+3. Liskov substitution principle
+4. Interface segregation principle
+5. Dependency Inversion principle
+
+In the above folder structure, I have described each SOLID principles with detaied description and implementation.

@@ -20,6 +20,8 @@ change for some reason, that change may force us to rebuild, retest, and redeplo
 
 Below is the SPR followed design class structure :
 
-![spr](https://github.com/deekshakukreti/Images/blob/main/spr.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/deekshakukreti/Images/blob/main/spr.png">
+</p>
 
 With the help of delegation and abstraction, the class which contain more then one responsibilitites could delegate responsibilities to other classes. 

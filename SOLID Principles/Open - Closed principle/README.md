@@ -15,25 +15,17 @@ It is possible by abstraction as they are abstract base classes. It is easily po
 abstract classes. For example, in the below figure both client and server classes are not abstract. If the client
 class want to use different server class, then the client class will be changed to name the new server class.
 
-![cp](https://github.com/deekshakukreti/Images/blob/main/cp.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/deekshakukreti/Images/blob/main/cp.png">
+</p>
 
 However, in below figure the ServerAbstract class is an abstract class with virtual member functions. The client
 class uses this abstraction. The object of client class will be using the object of the derivative of the server class.
 A new serverAbstract class can be created, if we want to use object of the new server class. The client class remain
 unchanged.
 
-![op](https://github.com/deekshakukreti/Images/blob/main/op.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/deekshakukreti/Images/blob/main/op.png">
+</p>
 
