@@ -1,7 +1,7 @@
 
 # Single Responsibility Principle
 
-There should not be more then one reason for a class to change.
+There should not be more then one reason for a class to change. A class should be responsible for a single part of the functionality.
 
 It is the concept that instructs developers to write code that has only one reason to change. If suppose class has more then one reason to change, then it will have multiple responsibilities. So class with more then one responsibility can be broken down to small classes, each of which will have one responsibility and one reason to change.
 
