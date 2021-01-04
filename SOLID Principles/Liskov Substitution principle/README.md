@@ -2,7 +2,7 @@
 # The Liskov Substitution Principle
 
 The Liskov substitution principle says that the function that use pointers or reference to base classes
-must be able to use objects of derived classes without knowing it. You should be able to use a subclass inplace of it's parent class.
+must be able to use objects of derived classes without knowing it. You should be able to use a subclass inplace of it's parent class. While elaborating, a sub class could be used wherever its parent class can be used, without altering the functionality in a blocking way.
 
 It is basically, a collection of guidelines for creating inheritance hierarchies in which client can reliably use any class or subclass without compromising the expected behaviour. If the rules are followed then client can remain unaware of the changes to any class hierarchies. However, if LSP is not followed then, an extension to a class hierarchy—that is, a new subclass—might necessitate changes to any client of the base class or interface. The LSP, therefore, helps to enforce both the open/closed principle and the single responsibility principle.
 
