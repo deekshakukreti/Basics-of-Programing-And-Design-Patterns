@@ -61,4 +61,3 @@ In the above example (+) operator is overloaded with another sort of calculation
 This is related to abstract class. It is achieved by different methods in different classes can use or implement abstract class, the polymorphic nature is achieved.
 
 
-# Polymophism with Python
