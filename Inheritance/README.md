@@ -47,5 +47,3 @@ public class B : A // Generates CS0534.
 }
 ```
 
-## Designing the Base class and the Derived class
-
