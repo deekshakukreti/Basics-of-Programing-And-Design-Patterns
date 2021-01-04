@@ -1,6 +1,8 @@
 
 # Dependency Inversion Principle
 
+The class should depend on abstraction's instead of concrete implementations.
+
 The principle states that :
 
 1. High level modules should not depend upon low level modules. Both should depend upon abstraction.
