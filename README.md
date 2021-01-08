@@ -40,6 +40,10 @@ In OOP, this type of polymorphism can be implemented by overloading. Different m
 ## Inheritance
 Inheritance is used to classify the objects according to their characterstics and functions. Objects become easier to work with and more instinctive. The programming becomes easier as it helps to bind the general characterstics into the parent class and then inherit these characterstics in child object. For example, the employee in the company is the base class which have all the characterstics related to it. However, the manager is the child class which is derived from employee class and also have unque characterstics of the manager role in the company. 
 
+## Interface
+An interface defines a contract. Any class or method that implements the contract must provide the implementation of it's members. An inetrface can inherit from one or more base interfaces. When an interface overrides a method implemented in a base interface, it must use the explicit interface implementation syntax.
+
+A class that implements an interface can explicitly implement members of that interface. An explicitly implemented member cannot be accessed through a class instance, but only through an instance of the interface.
 
 # SOLID Principles
 
